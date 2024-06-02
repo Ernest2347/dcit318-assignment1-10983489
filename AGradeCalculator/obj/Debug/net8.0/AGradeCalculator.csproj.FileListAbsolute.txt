@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\bin\Debug\net8.0\AGradeCalculator.exe
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\bin\Debug\net8.0\AGradeCalculator.deps.json
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\bin\Debug\net8.0\AGradeCalculator.runtimeconfig.json
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\bin\Debug\net8.0\AGradeCalculator.dll
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\bin\Debug\net8.0\AGradeCalculator.pdb
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.AssemblyInfo.cs
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.sourcelink.json
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.dll
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\refint\AGradeCalculator.dll
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.pdb
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\AGradeCalculator.genruntimeconfig.cache
+C:\Users\DELL\Documents\ernest_idiot\AGradeCalculator\obj\Debug\net8.0\ref\AGradeCalculator.dll

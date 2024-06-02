@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AGradeCalculator/1.0.0": {
+        "runtime": {
+          "AGradeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGradeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
