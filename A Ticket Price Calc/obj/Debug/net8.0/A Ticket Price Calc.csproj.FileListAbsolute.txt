@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\bin\Debug\net8.0\A Ticket Price Calc.exe
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\bin\Debug\net8.0\A Ticket Price Calc.deps.json
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\bin\Debug\net8.0\A Ticket Price Calc.runtimeconfig.json
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\bin\Debug\net8.0\A Ticket Price Calc.dll
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\bin\Debug\net8.0\A Ticket Price Calc.pdb
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.AssemblyInfo.cs
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.sourcelink.json
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.dll
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\refint\A Ticket Price Calc.dll
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.pdb
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\A Ticket Price Calc.genruntimeconfig.cache
+C:\Users\DELL\Documents\ernest_idiot\A Ticket Price Calc\obj\Debug\net8.0\ref\A Ticket Price Calc.dll
