@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\bin\Debug\net8.0\A triangle Type Identifier.exe
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\bin\Debug\net8.0\A triangle Type Identifier.deps.json
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\bin\Debug\net8.0\A triangle Type Identifier.runtimeconfig.json
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\bin\Debug\net8.0\A triangle Type Identifier.dll
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\bin\Debug\net8.0\A triangle Type Identifier.pdb
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.AssemblyInfo.cs
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.sourcelink.json
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.dll
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\refint\A triangle Type Identifier.dll
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.pdb
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\A triangle Type Identifier.genruntimeconfig.cache
+C:\Users\DELL\Documents\ernest_idiot\A triangle Type Identifier\obj\Debug\net8.0\ref\A triangle Type Identifier.dll
